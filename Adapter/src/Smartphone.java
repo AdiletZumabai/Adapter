@@ -1,0 +1,4 @@
+
+interface Smartphone {
+    void playAudio();
+}
